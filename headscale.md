@@ -7,6 +7,8 @@
 
 
 Server
+ssh root@headscale.ukprivacy.news
+
    94  headscale nodes register --key xxxxxxxx-xxxxxxxx-xxxxxx --user boss
    95  headscale nodes list
    96  history
