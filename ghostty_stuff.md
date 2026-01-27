@@ -1,4 +1,4 @@
-# Ghostty config teasks
+# Ghostty config tweaks
 ## graphics issue on older hardware
 https://github.com/ghostty-org/ghostty/discussions/8836
 
