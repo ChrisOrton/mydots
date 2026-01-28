@@ -1,8 +1,9 @@
 ghostty and kitty allow visual previews from yazi plus other stuff
 
 yazi seems to need rich-cli and others
-rich-cli needs pipx toinstal
+rich-cli needs pipx to install
 sudo apt install pipx
+rich-cli provides markdown renderingg in a terminal
 
 neovim is best with lazyvim
 
