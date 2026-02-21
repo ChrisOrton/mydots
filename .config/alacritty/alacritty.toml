@@ -1,0 +1,11 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_mocha.toml"
+]
+
+[window]
+decorations_theme_variant = "Dark"
+opacity=0.8
+
+[terminal]
+shell="/usr/bin/zsh"
