@@ -21,6 +21,7 @@ bindkey "${terminfo[kcuu1]}" up-line-or-beginning-search # Up
 bindkey "${terminfo[kcud1]}" down-line-or-beginning-search # Down
 
 alias ll='ls -alF'
+alias lg='lazygit'
 
 # Launch Yazi exit to selected folder q or stay in launch folder Q
 function y() {
