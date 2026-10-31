@@ -14,7 +14,11 @@ open = [
 [plugin]
 
 prepend_previewers = [
-    { mime = "image/*", run = "image-preview" }, # block symbols + dithering via chafa
+    { url = "*.png", run = "image-preview" },
+    { url = "*.jpg", run = "image-preview" },
+    { url = "*.jpeg", run = "image-preview" },
+    { url = "*.gif", run = "image-preview" },
+    { url = "*.webp", run = "image-preview" },
     { url = "*.csv", run = "rich-preview"},
     { url = "*.md", run = "rich-preview" },
     { url = "*.rst", run = "rich-preview"},
