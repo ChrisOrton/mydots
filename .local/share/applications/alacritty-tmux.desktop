@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Tmux
+Comment=Alacritty terminal with tmux
+Exec=alacritty --config-file /home/user/.config/alacritty/alacritty-tmux.toml -e tmux new-session -A -s main
+Icon=Alacritty
+Type=Application
+Categories=System;TerminalEmulator;
