@@ -3,3 +3,4 @@ import = ["~/.config/alacritty/alacritty.toml"]
 
 [window]
 decorations = "none"
+class = { instance = "alacritty-tmux", general = "alacritty-tmux" }
